@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-I am currently working on improving my overall skills.
+I am currently completing my formal education but I like to think of myself as always being a student, regardless of classload.
+
+🔭 I’m currently working on improving my low level programming skills. If you know assembly then everything is open source.
+
+💬 Ask me about my travel blog! I built it with friends from scratch, and then proceeded to have very little time to travel anymore let alone write about it.
+
+
 <!--
 **petehands/petehands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
